@@ -15,7 +15,9 @@ Here are some of the Languages that i can code in :
 </p>
 
 [![Amdjed Streak](https://streak-stats.demolab.com/?user=AmdjedBelgacem&theme=dark)](https://git.io/streak-stats)
-[![Amdjed Belgacem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmdjedBelgacem&custom_title=Amdjed%20Belgacem%20Activity%20Graph&theme=react-dark&hide_border=true&margin-h=15)](https://github.com/AmdjedBelgacem/github-readme-activity-graph)
+
+[![Amdjed Belgacem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmdjedBelgacem&custom_title=Amdjed%20Belgacem%20Activity%20Graph&theme=react-dark&hide_border=true)](https://github.com/AmdjedBelgacem/github-readme-activity-graph)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=AmdjedBelgacem&theme=onedark&column=7&margin-w=15)](https://github.com/AmdjedBelgacem/github-profile-trophy)
 
 
