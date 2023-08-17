@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Amdjed Streak](https://streak-stats.demolab.com/?user=AmdjedBelgacem&theme=dark)](https://git.io/streak-stats) <br/>
-[![Amdjed Belgacem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmdjedBelgacem&custom_title=Amdjed%20Belgacem%20Activity%20Graph&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ### Hey, It's me! Amdjed Belgacem
 A passionate full stack web develop who is his only purpose to provide something that might revolutionize the online world into something better!
 I am currently finishing my Masters in CyberSecurity as well as having my last steps in so far one of the best bootcamps also known as Re:Coded.
@@ -24,4 +22,8 @@ Fun fact: I am on the road of becoming a polyglot, i speak: English, Arabic, Fre
 Some of my Hobbies: Gym, Playing Guitar, Singing, Gaming, Learning Languages and Coding.
 Here are some of the Languages that i can code in :
 !!!To be Added!!!
+
+[![Amdjed Streak](https://streak-stats.demolab.com/?user=AmdjedBelgacem&theme=dark)](https://git.io/streak-stats)
+[![Amdjed Belgacem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmdjedBelgacem&custom_title=Amdjed%20Belgacem%20Activity%20Graph&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
