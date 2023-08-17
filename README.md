@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AmdjedBelgacem&theme=dark)](https://git.io/streak-stats)
+[![Amdjed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmdjedBelgacem&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ### Hey, It's me! Amdjed Belgacem
 A passionate full stack web develop who is his only purpose to provide something that might revolutionize the online world into something better!
 I am currently finishing my Masters in CyberSecurity as well as having my last steps in so far one of the best bootcamps also known as Re:Coded.
