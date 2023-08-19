@@ -10,7 +10,7 @@ Currently Working on my Portfolio and going to have a mentorship hosted by Re:Co
 Here are some of the Languages that i can code in :
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,js,html,css,tailwind,bootstrap, python,java,aws,firebase,mysql,sqlite,git,github," />
+    <img src="https://skillicons.dev/icons?i=react,next,js,html,css,tailwind,bootstrap,python,java,aws,firebase,mysql,sqlite,git,github," />
   </a>
 </p>
 
