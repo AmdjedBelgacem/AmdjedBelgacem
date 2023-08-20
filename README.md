@@ -1,13 +1,13 @@
 
 # Hey, It's me! Amdjed Belgacem
-A passionate full stack web developer who is his only purpose to provide something that might revolutionize the online world into something better!
+A passionate full-stack web developer who is his only purpose to provide something that might revolutionize the online world into something better!
 I am currently finishing my Masters in CyberSecurity as well as having my last steps in so far one of the best bootcamps also known as Re:Coded.
-I am in constantly seeking for something to learn and develop myself and my goal is to hopefully master as much languages and skills as possible!Life Long Learning!
-I am very much open to any kind of collaborations that is connected to Web developement or backend developement so don't Hesistate to contact me!
-Fun fact: I am on the road of becoming a polyglot, i speak: English, Arabic, French, Turkish, Maltese (found out i speak it not too long ago by mistake), basic russian.
+I am constantly seeking something to learn and develop myself and my goal is to hopefully master as many languages and skills as possible! Life Long Learning!
+I am very much open to any kind of collaboration that is connected to Web development or backend development so don't hesitate to contact me!
+Fun fact: I am on the road to becoming a polyglot, I speak: English, Arabic, French, Turkish, Maltese (found out I am able to speak it not too long ago by mistake), and basic Russian.
 Some of my Hobbies: Gym, Playing Guitar, Singing, Gaming, Learning Languages and Coding.
-Currently Working on my Portfolio and going to have a mentorship hosted by Re:Coded.
-Here are some of the Languages that i can code in :
+I am currently Working on my Portfolio and going to have a mentorship hosted by Re:Coded.
+Here are some of the Languages that I can code in :
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,next,js,html,css,tailwind,bootstrap,python,java,aws,firebase,mysql,sqlite,git,github," />
