@@ -16,11 +16,11 @@ Here are some of the Languages that I can code in :
 
 [![Amdjed Streak](https://streak-stats.demolab.com/?user=AmdjedBelgacem&theme=dark)](https://git.io/streak-stats)
 ![AmdjedBelgacem's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmdjedBelgacem&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmdjedBelgacem&theme=dark)](https://github.com/AmdjedBelgacem/github-readme-stats)
 
 [![Amdjed Belgacem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmdjedBelgacem&custom_title=Amdjed%20Belgacem%20Activity%20Graph&theme=react-dark&hide_border=true)](https://github.com/AmdjedBelgacem/github-readme-activity-graph)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AmdjedBelgacem&theme=onedark&column=7&margin-w=15)](https://github.com/AmdjedBelgacem/github-profile-trophy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmdjedBelgacem&theme=dark)](https://github.com/AmdjedBelgacem/github-readme-stats)
 
 
