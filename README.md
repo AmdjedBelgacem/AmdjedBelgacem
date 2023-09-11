@@ -19,6 +19,7 @@ Here are some of the Languages that I can code in :
 # Portfolio:
 ### https://amdjedportfolio.vercel.app/
 
+# Stats:
 
 [![Amdjed Streak](https://streak-stats.demolab.com/?user=AmdjedBelgacem&theme=dark)](https://git.io/streak-stats) 
 ![AmdjedBelgacem's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmdjedBelgacem&show_icons=true&theme=dark)
