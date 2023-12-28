@@ -12,7 +12,7 @@ Here are some of the Languages that I can code in :
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,redux,js,ts,nodej,html,css,tailwind,bootstrap,materialui,python,java,aws,firebase,mongodb,mysql,sqlite,git,github,terraform" />
+    <img src="https://skillicons.dev/icons?i=react,next,redux,js,ts,nodejs,html,css,tailwind,bootstrap,materialui,python,java,aws,firebase,mongodb,mysql,sqlite,git,github,terraform" />
   </a>
 </p>
 
