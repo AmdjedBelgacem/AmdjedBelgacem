@@ -8,7 +8,7 @@ Fun fact: I am on the road to becoming a polyglot, I speak: English, Arabic, Fre
 Some of my Hobbies: Gym, Playing Guitar, Singing, Gaming, Learning Languages and Coding.
 I am currently Working on my Portfolio and going to have a mentorship hosted by Re:Coded.
 Here are some of the Languages that I can code in :
-
+  
 
 <p align="center">
   <a href="https://skillicons.dev">
