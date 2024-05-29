@@ -18,7 +18,7 @@ Here are some of the Languages that I can code in :
 
 
 # Portfolio:
-### [https://amdjed-belgacem.vercel.app/](https://amdjedbelgacem.vercel.app/en)
+### [https://amdjedbelgacem.vercel.app/](https://amdjedbelgacem.vercel.app/en)
 
 # Stats:
 
