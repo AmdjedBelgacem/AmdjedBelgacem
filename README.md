@@ -39,7 +39,7 @@ Open to Senior / Lead Full Stack Engineer roles where I can contribute strong te
 
 ---
 
-> "Engineering systems that don't just work — they excel under pressure and serve real human needs."
+> "Engineering systems that don't just work, they excel under pressure and serve real human needs."
 
 **Amdjed Belgacem**  
 Lead Full Stack Engineer • Lifelong Learner • Builder
