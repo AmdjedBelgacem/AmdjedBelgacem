@@ -13,11 +13,12 @@ I design and lead the development of high-availability medical and social platfo
 Open to Senior / Lead Full Stack Engineer opportunities where I can contribute technical leadership and build meaningful products.
 
 ### Let's Connect
-- **Portfolio**: [amdjedbelgacem.vercel.app](https://amdjedbelgacem.vercel.app/)
+- **Portfolio**: [amdjedbelgacem.vercel.app](https://amdjedbelgacem.vercel.app)
 - **LinkedIn**: [linkedin.com/in/amdjed-belgacem](https://linkedin.com/in/amdjed-belgacem)
 - **Email**: amgedbelgacem@gmail.com
 
 ---
+
 ### Tech Stack
 
 <p align="center">
@@ -31,6 +32,8 @@ Open to Senior / Lead Full Stack Engineer opportunities where I can contribute t
 ![Amdjed Belgacem's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=AmdjedBelgacem&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
 [![Amdjed Belgacem's Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AmdjedBelgacem&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/AmdjedBelgacem)
+
+![Amdjed Belgacem's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmdjedBelgacem&custom_title=Amdjed%20Belgacem%20Activity%20Graph&theme=tokyonight&hide_border=true)
 
 ![Amdjed Belgacem's Streak](https://github-readme-streak-stats-eight.vercel.app?user=AmdjedBelgacem&theme=tokyonight&hide_border=true)
 
