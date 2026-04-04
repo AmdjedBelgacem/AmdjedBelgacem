@@ -2,15 +2,15 @@
 
 **Lead Full Stack Engineer** | Architecting Scalable Medical & Social Platforms
 
-I design and lead the development of high-availability medical and social platforms that deliver real business and user impact. Currently leading a team of 10 developers at **Perinatal Medicine Co.**, where I own architecture, CI/CD pipelines, and delivery using Next.js, GraphQL, TypeScript, PostgreSQL, and AWS — achieving 99.9% uptime and significant gains in engagement and performance.
+I lead the design and development of high-availability medical and social platforms that deliver measurable impact. Currently heading a team of 10 developers at **Perinatal Medicine Co.**, I own end-to-end architecture, CI/CD pipelines, and delivery using modern full-stack technologies — consistently achieving 99.9% uptime and significant improvements in user engagement and performance.
 
 ### What I Bring
-- **Leadership & Architecture**: Led full-stack development and mentoring while scaling production medical platforms.
-- **Technical Depth**: Strong expertise in Next.js, React, TypeScript, GraphQL, Node.js, FastAPI, GoLang, PostgreSQL, MongoDB, AWS, Docker, Terraform, and React Native.
-- **Security & Reliability**: Master's in Cyber Security — I build secure, resilient systems that excel under real-world load.
-- **Delivery Focus**: Proven track record of mentoring juniors, implementing automated testing, and shipping features ahead of schedule.
+- Technical leadership in full-stack architecture and team mentoring
+- Deep expertise building production systems with Next.js, GraphQL, TypeScript, PostgreSQL, AWS, Docker, and React Native
+- Security-first mindset backed by a Master’s in Cyber Security from Kadir Has University
+- Proven ability to deliver scalable solutions while mentoring juniors and improving team velocity
 
-Open to Senior / Lead Full Stack Engineer opportunities where I can contribute technical leadership and build meaningful products.
+Open to Senior / Lead Full Stack Engineer roles where I can contribute strong technical ownership and build meaningful products.
 
 ### Let's Connect
 - **Portfolio**: [amdjedbelgacem.vercel.app](https://amdjedbelgacem.vercel.app)
@@ -33,9 +33,11 @@ Open to Senior / Lead Full Stack Engineer opportunities where I can contribute t
 
 [![Amdjed Belgacem's Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AmdjedBelgacem&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/AmdjedBelgacem)
 
-![Amdjed Belgacem's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmdjedBelgacem&custom_title=Amdjed%20Belgacem%20Activity%20Graph&theme=tokyonight&hide_border=true)
+[![Amdjed Belgacem's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmdjedBelgacem&custom_title=Amdjed%20Belgacem%20Activity%20Graph&theme=tokyonight&hide_border=true)](https://github.com/AmdjedBelgacem/github-readme-activity-graph)
 
 ![Amdjed Belgacem's Streak](https://github-readme-streak-stats-eight.vercel.app?user=AmdjedBelgacem&theme=tokyonight&hide_border=true)
+
+[![Amdjed Belgacem's Trophies](https://github-profile-trophy.vercel.app/?username=AmdjedBelgacem&theme=tokyonight&column=7&margin-w=15)](https://github.com/AmdjedBelgacem/github-profile-trophy)
 
 ---
 
