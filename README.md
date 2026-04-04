@@ -18,7 +18,6 @@ Open to Senior / Lead Full Stack Engineer opportunities where I can contribute t
 - **Email**: amgedbelgacem@gmail.com
 
 ---
-
 ### Tech Stack
 
 <p align="center">
@@ -27,13 +26,13 @@ Open to Senior / Lead Full Stack Engineer opportunities where I can contribute t
   </a>
 </p>
 
-### GitHub Stats
+### GitHub Activity
 
-[![Amdjed Belgacem's GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=AmdjedBelgacem&theme=tokyonight&hide_border=true)](https://github.com/AmdjedBelgacem)
+![Amdjed Belgacem's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=AmdjedBelgacem&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
-![Amdjed Belgacem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmdjedBelgacem&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+[![Amdjed Belgacem's Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AmdjedBelgacem&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/AmdjedBelgacem)
 
-[![Amdjed Belgacem's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmdjedBelgacem&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/AmdjedBelgacem)
+![Amdjed Belgacem's Streak](https://github-readme-streak-stats-eight.vercel.app?user=AmdjedBelgacem&theme=tokyonight&hide_border=true)
 
 ---
 
