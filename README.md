@@ -2,7 +2,7 @@
 
 **Lead Full Stack Engineer** | Architecting Scalable Medical & Social Platforms
 
-I lead the design and development of high-availability medical and social platforms that deliver measurable impact. Currently heading a team of 10 developers at **Perinatal Medicine Co.**, I own end-to-end architecture, CI/CD pipelines, and delivery using modern full-stack technologies — consistently achieving 99.9% uptime and significant improvements in user engagement and performance.
+I lead the design and development of high-availability medical and social platforms that deliver real business and user impact. Currently heading a team of 10 developers at **Perinatal Medicine Co.**, I own end-to-end architecture, CI/CD pipelines, and delivery using Next.js, GraphQL, TypeScript, PostgreSQL, and AWS — consistently achieving 99.9% uptime and significant improvements in user engagement and performance.
 
 ### What I Bring
 - Technical leadership in full-stack architecture and team mentoring
@@ -37,7 +37,7 @@ Open to Senior / Lead Full Stack Engineer roles where I can contribute strong te
 
 ![Amdjed Belgacem's Streak](https://github-readme-streak-stats-eight.vercel.app?user=AmdjedBelgacem&theme=tokyonight&hide_border=true)
 
-[![Amdjed Belgacem's Trophies](https://github-profile-trophy.vercel.app/?username=AmdjedBelgacem&theme=tokyonight&column=7&margin-w=15)](https://github.com/AmdjedBelgacem/github-profile-trophy)
+[![Amdjed Belgacem's Trophies](https://github-profile-trophy.vercel.app/?username=AmdjedBelgacem&theme=tokyonight&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
