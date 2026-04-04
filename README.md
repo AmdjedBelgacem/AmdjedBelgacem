@@ -37,8 +37,6 @@ Open to Senior / Lead Full Stack Engineer roles where I can contribute strong te
 
 ![Amdjed Belgacem's Streak](https://github-readme-streak-stats-eight.vercel.app?user=AmdjedBelgacem&theme=tokyonight&hide_border=true)
 
-[![Amdjed Belgacem's Trophies](https://github-profile-trophy.vercel.app/?username=AmdjedBelgacem&theme=tokyonight&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 > "Engineering systems that don't just work — they excel under pressure and serve real human needs."
