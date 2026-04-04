@@ -1,32 +1,50 @@
+# Hi, I'm Amdjed Belgacem
 
-# Hey, It's me! Amdjed Belgacem
-A passionate full-stack web developer who is his only purpose to provide something that might revolutionize the online world into something better!
-I am currently finishing my Masters in CyberSecurity as well as having my last steps in so far one of the best bootcamps also known as Re:Coded.
-I am constantly seeking something to learn and develop myself and my goal is to hopefully master as many languages and skills as possible! Life Long Learning!
-I am very much open to any kind of collaboration that is connected to Web development or backend development so don't hesitate to contact me!
-Fun fact: I am on the road to becoming a polyglot, I speak: English, Arabic, French, Turkish, Maltese (found out I am able to speak it not too long ago by mistake), and basic Russian.
-Some of my Hobbies: Gym, Playing Guitar, Singing, Gaming, Learning Languages and Coding.
-I am currently Working on my Portfolio and going to have a mentorship hosted by Re:Coded.
-Here are some of the Languages that I can code in :
-  
+**Lead Full Stack Engineer** | Architecting Scalable Medical & Social Platforms
+
+I build high-impact, production-grade digital experiences that solve real problems in healthcare and social connectivity. Currently leading a team of 10 developers at **Perinatal Medicine Co.**, where I design and maintain medical social networks and data platforms using modern full-stack technologies — consistently delivering measurable improvements in user engagement, system reliability, and deployment efficiency.
+
+### What I Bring
+- **Technical Leadership**: Architected and scaled multiple production platforms (Next.js + GraphQL + PostgreSQL + AWS) serving real users in the medical field with 99.9% uptime.
+- **Full-Stack Depth**: Expert in modern frontend (Next.js, React, TypeScript, Tailwind), backend (GraphQL, Node.js, FastAPI, GoLang), databases (PostgreSQL, MongoDB, Prisma), cloud infrastructure (AWS, Docker, Terraform), and mobile (React Native).
+- **Mentorship & Delivery**: Proven ability to lead agile teams, conduct code reviews, implement CI/CD pipelines, and mentor junior developers while shipping features ahead of schedule.
+- **Security Mindset**: Master's in Cyber Security from Kadir Has University — I build systems that are not only fast and scalable but also secure and resilient.
+
+### Currently Focused On
+- Leading the architectural evolution of medical-social platforms
+- Building interactive, high-performance user experiences with GSAP and cinematic animations
+- Exploring event-driven architectures and advanced cloud-native patterns
+
+### Let's Connect
+I'm always open to interesting conversations around scalable systems, medical technology, cloud architecture, or collaboration opportunities in ambitious tech environments.
+
+- **Portfolio**: [amdjedbelgacem.vercel.app](https://amdjedbelgacem.vercel.app)
+- **LinkedIn**: [linkedin.com/in/amdjed-belgacem](https://linkedin.com/in/amdjed-belgacem)
+- **Email**: amgedbelgacem@gmail.com
+
+---
+
+### Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,redux,js,ts,go,nodejs,html,css,tailwind,bootstrap,materialui,python,java,aws,firebase,mongodb,mysql,sqlite,git,github,terraform,graphql" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,graphql,nodejs,fastapi,golang,postgresql,mongodb,prisma,aws,docker,terraform,reactnative,framer,git" />
   </a>
 </p>
 
+### GitHub Stats
 
-# Portfolio:
-### [https://amdjedbelgacem.vercel.app/](https://amdjedbelgacem.vercel.app/en)
+[![Amdjed's GitHub Streak](https://streak-stats.demolab.com/?user=AmdjedBelgacem&theme=tokyonight)](https://git.io/streak-stats)
 
-# Stats:
+![Amdjed Belgacem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmdjedBelgacem&show_icons=true&theme=tokyonight&hide_border=true)
 
-[![Amdjed Streak](https://streak-stats.demolab.com/?user=AmdjedBelgacem&theme=dark)](https://git.io/streak-stats) 
-![AmdjedBelgacem's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmdjedBelgacem&show_icons=true&theme=dark)
+[![Amdjed Belgacem's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmdjedBelgacem&layout=compact&theme=tokyonight)](https://github.com/AmdjedBelgacem)
 
+---
 
-[![Amdjed Belgacem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmdjedBelgacem&custom_title=Amdjed%20Belgacem%20Activity%20Graph&theme=react-dark&hide_border=true)](https://github.com/AmdjedBelgacem/github-readme-activity-graph)
+> "Engineering systems that don't just work — they excel under pressure and serve real human needs."
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AmdjedBelgacem&theme=onedark&column=7&margin-w=15)](https://github.com/AmdjedBelgacem/github-profile-trophy)
+---
 
+**Amdjed Belgacem**  
+Lead Full Stack Engineer • Lifelong Learner • Builder
