@@ -37,19 +37,22 @@ Currently **Principal Software Engineer at QR Tech Solutions**, I own end to end
 </p>
 
 ### GitHub Activity
-![Amdjed Belgacem's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=AmdjedBelgacem&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-[![Amdjed Belgacem's Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AmdjedBelgacem&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/AmdjedBelgacem)
-[![Amdjed Belgacem's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmdjedBelgacem&custom_title=Amdjed%20Belgacem%20Activity%20Graph&theme=tokyonight&hide_border=true)](https://github.com/AmdjedBelgacem/github-readme-activity-graph)
-![Amdjed Belgacem's Streak](https://github-readme-streak-stats-eight.vercel.app?user=AmdjedBelgacem&theme=tokyonight&hide_border=true)
+![Amdjed Belgacem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmdjedBelgacem&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+[![Amdjed Belgacem's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmdjedBelgacem&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/AmdjedBelgacem)
+![Amdjed Belgacem's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmdjedBelgacem&theme=tokyonight&hide_border=true)
+
+### Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AmdjedBelgacem&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=7" />
+</p>
+
+### Featured Work
+[![Graphly](https://github-readme-stats.vercel.app/api/pin/?username=AmdjedBelgacem&repo=graphly&theme=tokyonight&hide_border=true)](https://github.com/AmdjedBelgacem/graphly)
+[![Learnr](https://github-readme-stats.vercel.app/api/pin/?username=AmdjedBelgacem&repo=learnr&theme=tokyonight&hide_border=true)](https://github.com/AmdjedBelgacem/learnr)
+
 ---
 
 > Engineering systems that don’t just work. They stay up, stay secure, and serve real human needs under pressure.
 
 **Amdjed Belgacem**  
 Principal Software Engineer · Technical Lead · Builder
-
-
-
-
-
-
