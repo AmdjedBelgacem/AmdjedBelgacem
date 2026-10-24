@@ -1,7 +1,6 @@
 # Hi, I'm Amdjed Belgacem
 
-**Principal Software Engineer** · Architecting high stakes systems at scale  
-Arabic (Native) · Available for relocation
+**Principal Software Engineer** · Architecting high stakes systems at scale
 
 I design and ship production systems that have to work under real pressure in medical platforms, e-commerce infrastructure, and complex social products.  
 Currently **Principal Software Engineer at QR Tech Solutions**, I own end to end architecture, security posture, and delivery of systems that serve real users at scale.
@@ -38,10 +37,10 @@ Currently **Principal Software Engineer at QR Tech Solutions**, I own end to end
 </p>
 
 ### GitHub Activity
-![Amdjed Belgacem's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=AmdjedBelgacem&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-[![Amdjed Belgacem's Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AmdjedBelgacem&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/AmdjedBelgacem)
-[![Amdjed Belgacem's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmdjedBelgacem&custom_title=Amdjed%20Belgacem%20Activity%20Graph&theme=tokyonight&hide_border=true)](https://github.com/AmdjedBelgacem/github-readme-activity-graph)
-![Amdjed Belgacem's Streak](https://github-readme-streak-stats-eight.vercel.app?user=AmdjedBelgacem&theme=tokyonight&hide_border=true)
+![Amdjed Belgacem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmdjedBelgacem&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+[![Amdjed Belgacem's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmdjedBelgacem&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/AmdjedBelgacem)
+[![Amdjed Belgacem's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmdjedBelgacem&custom_title=Amdjed%20Belgacem%20Activity%20Graph&theme=tokyonight&hide_border=true)](https://github.com/AmdjedBelgacem)
+![Amdjed Belgacem's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmdjedBelgacem&theme=tokyonight&hide_border=true)
 
 ---
 
