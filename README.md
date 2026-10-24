@@ -39,7 +39,7 @@ Currently **Principal Software Engineer at QR Tech Solutions**, I own end to end
 ### GitHub Activity
 ![Amdjed Belgacem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmdjedBelgacem&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 [![Amdjed Belgacem's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmdjedBelgacem&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/AmdjedBelgacem)
-[![Amdjed Belgacem's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmdjedBelgacem&custom_title=Amdjed%20Belgacem%20Activity%20Graph&theme=tokyonight&hide_border=true)](https://github.com/AmdjedBelgacem)
+[![Amdjed Belgacem's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmdjedBelgacem&custom_title=Amdjed%20Belgacem%20Activity%20Graph&theme=tokyonight&hide_border=true)](https://github.com/AmdjedBelgacem/github-readme-activity-graph)
 ![Amdjed Belgacem's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmdjedBelgacem&theme=tokyonight&hide_border=true)
 
 ---
