@@ -23,7 +23,7 @@ Currently **Principal Software Engineer at QR Tech Solutions**, I own end to end
 - Independently designed and shipped full stack systems (e commerce, AI analytics, medical social networks) from zero to production
 
 ### Let’s talk
-- **Portfolio** → [amdjedbelgacem.vercel.app](https://amdjedbelgacem.vercel.app)
+- **Portfolio** → [amdjedbelgacem.tech](https://www.amdjedbelgacem.tech)
 - **LinkedIn** → [linkedin.com/in/amdjed-belgacem](https://linkedin.com/in/amdjed-belgacem)
 - **Email** → amgedbelgacem@gmail.com
 
